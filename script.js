@@ -13,7 +13,7 @@ function currentDate() {
         return String(d).padStart(2, '0')
     }
 
-    return `${day} • ${mounth} • ${year}`
+    return `${day} • ${mounth} • ${year}` 
 }
 getDate.textContent = currentDate()
 console.log(currentDate())
