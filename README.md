@@ -12,3 +12,14 @@ https://user-images.githubusercontent.com/86997545/182247213-e36f52a8-98b9-4fa5-
 </p>
 
 <h1 align="center">Countdown 🚀</h1>
+<div align="center"><strong>Hora e data <em>( horário de Brasília ) em tempo real</em></strong></div>
+
+<div align="center">
+  <span>Website</span> ·
+  <a href="https://countdown-azure.vercel.app/">Countdown</a>
+</div>
+
+## Stacks
+- html 🧡
+- css 💜
+- javascript 💛
