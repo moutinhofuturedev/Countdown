@@ -43,6 +43,3 @@ function connectedCallback() {
 connectedCallback()
 
 showingTime.textContent = currentTime()
-
-
-
