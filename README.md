@@ -23,3 +23,7 @@ https://user-images.githubusercontent.com/86997545/182247213-e36f52a8-98b9-4fa5-
 - html 🧡
 - css 💜
 - javascript 💛
+
+---
+
+&nbsp;by Paulo Moutinho 👋 &nbsp;[See my linkedin](https://www.linkedin.com/in/paulomoutinhovitor/)
